@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header)  
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header)   -->
+### 😄 Hi, I'm Jingyeong  
 [![Naver Mail Badge](https://img.shields.io/badge/NaverMail-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:lkh4317@naver.com)](mailto:lkh4317@naver.com) 
-[![Tech Blog Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&link=https://gyong0117.tistory.com/)](https://gyong0117.tistory.com/)
-### Hi, I'm Jingyeong  
+[![Tech Blog Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&link=https://gyong0117.tistory.com/)](https://gyong0117.tistory.com/)  
 - 🌱 I’m currently learning Computer Science & Engineering in Ewha Womans University  
 - 📫 How to reach me: lkh4317@naver.com  
-- ⚡ This is my Tech Blog: https://gyong0117.tistory.com/  
-
+- ⚡ This is my Tech Blog: https://gyong0117.tistory.com/    
+  
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
