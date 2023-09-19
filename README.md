@@ -44,4 +44,4 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dooli1971039&theme=tokyonight&show_icons=true&card_witdh=400px)](https://github.com/dooli1971039/github-readme-stats) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lkh4317)](https://solved.ac/lkh4317)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dooli1971039&theme=tokyonight&card_witdh=400px)](https://github.com/dooli1971039/github-readme-stats) [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lkh4317)](https://solved.ac/lkh4317)
